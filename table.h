@@ -6,8 +6,7 @@
 #include <QsqlRecord>
 #include <Qsqlquery>
 #include <QString>
-// Trebuie schimbat Path-ul la folderul unde se afla proiectul.
-#define DATABASE_NAME "C:\\Users\\Luiza\\Desktop\\QDbConnection\\DataBase.db"
+#define DATABASE_NAME "DataBase.db"
 
 class Table
 {
